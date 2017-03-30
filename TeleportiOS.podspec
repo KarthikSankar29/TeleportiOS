@@ -25,7 +25,7 @@ Pod::Spec.new do |s|
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Karthik Sankar' => 'karthiksbootup@gmail.com' }
-  s.source           = { :git => 'https://github.com/KarthikSankar29/TeleportiOS', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/KarthikSankar29/TeleportiOS.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/KarthikS29'
 
   s.ios.deployment_target = '8.0'
