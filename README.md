@@ -22,7 +22,7 @@ pod "TeleportiOS"
 
 ## Author
 
-Karthik Sankar, karthik.sankar@photoninfotech.net
+Karthik Sankar, karthiksbootup@gmail.com
 
 ## License
 
