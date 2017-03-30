@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
      Teleport - iOS Swift logging framework Logs have been vital part in program debugging. iOS NSLog and print statements provide the flexibility in printing logs in console if devices are connected to Mac. But we as developers have faced problems where we need remote logging. One usual approach that we used was to log into a file and get that file for further debugging a particular use case. But what about realtime debugging, Teleport lets you to see real time logs on your local Windows or Mac machine. Real time logs are printed in console as the app logs it for us.
                        DESC
 
-  s.homepage         = 'https://github.com/KarthikSankar29/Teleport'
+  s.homepage         = 'https://github.com/KarthikSankar29/TeleportiOS'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Karthik Sankar' => 'karthiksbootup@gmail.com' }
-  s.source           = { :git => 'https://github.com/KarthikSankar29/Teleport.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/KarthikSankar29/TeleportiOS', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/KarthikS29'
 
   s.ios.deployment_target = '8.0'
