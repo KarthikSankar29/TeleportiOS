@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "DD8580FA12681657902ABC03A81795B1528FE81E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "B08AFC5E460785B84E28BD9F1CF24123BF385906" : 9223372036854775807,
+    "DD8580FA12681657902ABC03A81795B1528FE81E" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "DFD406EF-E15F-4E56-853B-21561BD21798",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "B08AFC5E460785B84E28BD9F1CF24123BF385906" : "..",
+    "DD8580FA12681657902ABC03A81795B1528FE81E" : "TeleportiOS\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "TeleportiOS",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Example\/TeleportiOS.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/KarthikSankar29\/Teleport.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B08AFC5E460785B84E28BD9F1CF24123BF385906"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/KarthikSankar29\/TeleportiOS.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "DD8580FA12681657902ABC03A81795B1528FE81E"
+    }
+  ]
+}

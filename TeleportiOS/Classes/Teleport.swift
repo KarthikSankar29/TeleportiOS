@@ -68,7 +68,7 @@ public class Teleport: NSObject{
         // Create WebSocket
         socket = nil
         // Url to connect
-        var connectionUrl = Utility.getTunnelMeURLStringWith(subDomain: pin)  // Pin is subdomain
+        let connectionUrl = Utility.getTunnelMeURLStringWith(subDomain: pin)  // Pin is subdomain
         socket = WebSocket(url: URL(string:connectionUrl)!, protocols: connectionProtocols)
         socket.delegate = self  // Set Delegate
         socket.connect()        // Connect to Websocket
@@ -173,7 +173,7 @@ extension Teleport {
         let messageString = "[Message] \(message)"                                                          // Message
         let timeStamp = DateFormatter.localizedString(from: Date(), dateStyle: .medium, timeStyle: .short)  // Time Stamp
         
-        let debugLogString = "\(timeStamp)\(logString)\(fileString)\(functionString)\(lineString)\(messageString)"
+        //let debugLogString = "\(timeStamp)\(logString)\(fileString)\(functionString)\(lineString)\(messageString)"
         let serverDebugLogString = "\(timeStamp)@\(logType.description)@\((fileName as NSString).lastPathComponent)@\(functionName)@\(lineNumber)@\(message)"
 
         socketWrite(message: serverDebugLogString)            // Write to server log
