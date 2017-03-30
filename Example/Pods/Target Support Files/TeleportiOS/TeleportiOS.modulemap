@@ -1,0 +1,6 @@
+framework module TeleportiOS {
+  umbrella header "TeleportiOS-umbrella.h"
+
+  export *
+  module * { export * }
+}
