@@ -1,6 +1,6 @@
 # TeleportiOS
 
-[![CI Status](http://img.shields.io/travis/Karthik Sankar/TeleportiOS.svg?style=flat)](https://travis-ci.org/Karthik Sankar/TeleportiOS)
+[![CI Status](http://img.shields.io/travis/KarthikSankar/TeleportiOS.svg?style=flat)](https://travis-ci.org/KarthikSankar/TeleportiOS)
 [![Version](https://img.shields.io/cocoapods/v/TeleportiOS.svg?style=flat)](http://cocoapods.org/pods/TeleportiOS)
 [![License](https://img.shields.io/cocoapods/l/TeleportiOS.svg?style=flat)](http://cocoapods.org/pods/TeleportiOS)
 [![Platform](https://img.shields.io/cocoapods/p/TeleportiOS.svg?style=flat)](http://cocoapods.org/pods/TeleportiOS)
